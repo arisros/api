@@ -1,0 +1,955 @@
+{
+  "data-pasar": [
+    {
+      "nama": "Pasar Cicanengka",
+      "nama_singkatan": "PC",
+      "pengelola": "1",
+      "kelas": "2",
+      "wilayah_bagian": "9",
+      "provinsi": "2325",
+      "kabupaten": "2911",
+      "kecamatan": "2855",
+      "kelurahan": "2911",
+      "alamat": "Jl. Cihideung Raya No. 13",
+      "kode_pasar": "02PKL01B01K1B1004",
+      "id": 1
+    },
+    {
+      "nama": "Pasar Cicanengka",
+      "nama_singkatan": "PC",
+      "pengelola": "1",
+      "kelas": "2",
+      "wilayah_bagian": "10",
+      "provinsi": "2325",
+      "kabupaten": "2911",
+      "kecamatan": "2855",
+      "kelurahan": "2911",
+      "alamat": "Jl. Cihideung Raya No. 13",
+      "kode_pasar": "02PKL01B01K1B1004",
+      "id": 2
+    },
+    {
+      "nama": "Pasar Cicanengka",
+      "nama_singkatan": "PC",
+      "pengelola": "2",
+      "kelas": "3",
+      "wilayah_bagian": "8",
+      "provinsi": "2325",
+      "kabupaten": "2911",
+      "kecamatan": "NaN",
+      "kelurahan": "2911",
+      "alamat": "Jl. Cihideung Raya No. 13",
+      "kode_pasar": "02PKL01B01K1B1004",
+      "id": 3
+    },
+    {
+      "nama": "Pasar Cicanengka",
+      "nama_singkatan": "PC",
+      "pengelola": "1",
+      "kelas": "2",
+      "wilayah_bagian": "8",
+      "provinsi": "2325",
+      "kabupaten": "2911",
+      "kecamatan": "NaN",
+      "kelurahan": "2911",
+      "alamat": "Jl. Cihideung Raya No. 13",
+      "kode_pasar": "02PKL01B01K1B1004",
+      "id": 4
+    },
+    {
+      "data": {
+        "nama": "Pasar Cicanengka",
+        "nama_singkatan": "PC",
+        "pengelola": "1",
+        "kelas": "",
+        "wilayah_bagian": "8",
+        "provinsi": "2325",
+        "kabupaten": "2911",
+        "kecamatan": "2879",
+        "kelurahan": "2911",
+        "alamat": "Jl. Cihideung Raya No. 13",
+        "lantai": [
+          {
+            "nama_lantai": "Parkir",
+            "kode_lantai": "P1",
+            "edit": "false"
+          }
+        ]
+      },
+      "headers": {
+        "Content-Type": "application/x-www-form-urlencoded"
+      },
+      "kode_pasar": "02PKL01B01K1B1004",
+      "pengelola": "NaN",
+      "kelas": "NaN",
+      "wilayah_bagian": "NaN",
+      "provinsi": "NaN",
+      "kabupaten": "NaN",
+      "kecamatan": "NaN",
+      "kelurahan": "NaN",
+      "id": 5
+    },
+    {
+      "data": {
+        "nama": "Pasar Cicanengka",
+        "nama_singkatan": "PC",
+        "pengelola": "1",
+        "kelas": "",
+        "wilayah_bagian": "8",
+        "provinsi": "2325",
+        "kabupaten": "2911",
+        "kecamatan": "0",
+        "kelurahan": "2911",
+        "alamat": "Jl. Cihideung Raya No. 13",
+        "lantai": [
+          {
+            "nama_lantai": "Parkir",
+            "kode_lantai": "P1",
+            "edit": "false"
+          }
+        ]
+      },
+      "headers": {
+        "Content-Type": "application/x-www-form-urlencoded"
+      },
+      "kode_pasar": "02PKL01B01K1B1004",
+      "pengelola": "NaN",
+      "kelas": "NaN",
+      "wilayah_bagian": "NaN",
+      "provinsi": "NaN",
+      "kabupaten": "NaN",
+      "kecamatan": "NaN",
+      "kelurahan": "NaN",
+      "id": 6
+    }
+  ],
+  "data-lantai": [
+    {
+      "nama_lantai": "Lantai Dasar",
+      "kode_lantai": "LD1",
+      "edit": "false",
+      "id_pasar": "1",
+      "id": 1
+    },
+    {
+      "nama_lantai": "Lantai 2",
+      "kode_lantai": "L2",
+      "edit": "false",
+      "id_pasar": "2",
+      "id": 2
+    },
+    {
+      "nama_lantai": "Parkir",
+      "kode_lantai": "P1",
+      "edit": "false",
+      "id_pasar": "2",
+      "id": 3
+    },
+    {
+      "nama_lantai": "21",
+      "kode_lantai": "d21",
+      "edit": "false",
+      "id_pasar": "3",
+      "id": 4
+    },
+    {
+      "nama_lantai": "Lantai",
+      "kode_lantai": "L2",
+      "edit": "false",
+      "id_pasar": "4",
+      "id": 5
+    },
+    {
+      "nama_lantai": "Roof Top",
+      "kode_lantai": "RT",
+      "edit": "false",
+      "id_pasar": "4",
+      "id": 6
+    }
+  ],
+  "list-data-pasar": [
+    {
+      "nama": "Pasar Cicanengka",
+      "nama_singkatan": "PC",
+      "pengelola": "1",
+      "kelas": "2",
+      "wilayah_bagian": "9",
+      "provinsi": "2325",
+      "kabupaten": "2911",
+      "kecamatan": "2855",
+      "kelurahan": "2911",
+      "alamat": "Jl. Cihideung Raya No. 13",
+      "jumlah_toko": "65",
+      "jumlah_kios": "109",
+      "jumlah_lapak": "25",
+      "jumlah_meja": "29",
+      "jumlah_los": "77",
+      "jumlah_pemilik": "23",
+      "kode_pasar": "02PKL01B01K1B1004",
+      "id": "1"
+    },
+    {
+      "nama": "Pasar Cicanengka",
+      "nama_singkatan": "PC",
+      "pengelola": "1",
+      "kelas": "2",
+      "wilayah_bagian": "10",
+      "provinsi": "2325",
+      "kabupaten": "2911",
+      "kecamatan": "2855",
+      "kelurahan": "2911",
+      "alamat": "Jl. Cihideung Raya No. 13",
+      "jumlah_toko": "89",
+      "jumlah_kios": "26",
+      "jumlah_lapak": "109",
+      "jumlah_meja": "84",
+      "jumlah_los": "104",
+      "jumlah_pemilik": "112",
+      "kode_pasar": "02PKL01B01K1B1004",
+      "id": "2"
+    },
+    {
+      "nama": "Pasar Cicanengka",
+      "nama_singkatan": "PC",
+      "pengelola": "2",
+      "kelas": "3",
+      "wilayah_bagian": "8",
+      "provinsi": "2325",
+      "kabupaten": "2911",
+      "kecamatan": "",
+      "kelurahan": "2911",
+      "alamat": "Jl. Cihideung Raya No. 13",
+      "jumlah_toko": "116",
+      "jumlah_kios": "97",
+      "jumlah_lapak": "116",
+      "jumlah_meja": "104",
+      "jumlah_los": "118",
+      "jumlah_pemilik": "112",
+      "kode_pasar": "02PKL01B01K1B1004",
+      "id": "3"
+    },
+    {
+      "nama": "Pasar Cicanengka",
+      "nama_singkatan": "PC",
+      "pengelola": "1",
+      "kelas": "2",
+      "wilayah_bagian": "8",
+      "provinsi": "2325",
+      "kabupaten": "2911",
+      "kecamatan": "",
+      "kelurahan": "2911",
+      "alamat": "Jl. Cihideung Raya No. 13",
+      "jumlah_toko": "114",
+      "jumlah_kios": "45",
+      "jumlah_lapak": "87",
+      "jumlah_meja": "54",
+      "jumlah_los": "21",
+      "jumlah_pemilik": "34",
+      "kode_pasar": "02PKL01B01K1B1004",
+      "id": "4"
+    },
+    {
+      "data": {
+        "nama": "Pasar Cicanengka",
+        "nama_singkatan": "PC",
+        "pengelola": "1",
+        "kelas": "",
+        "wilayah_bagian": "8",
+        "provinsi": "2325",
+        "kabupaten": "2911",
+        "kecamatan": "2879",
+        "kelurahan": "2911",
+        "alamat": "Jl. Cihideung Raya No. 13",
+        "lantai": [
+          {
+            "nama_lantai": "Parkir",
+            "kode_lantai": "P1",
+            "edit": "false"
+          }
+        ]
+      },
+      "headers": {
+        "Content-Type": "application/x-www-form-urlencoded"
+      },
+      "jumlah_toko": "78",
+      "jumlah_kios": "114",
+      "jumlah_lapak": "71",
+      "jumlah_meja": "107",
+      "jumlah_los": "96",
+      "jumlah_pemilik": "94",
+      "kode_pasar": "02PKL01B01K1B1004",
+      "id": "5"
+    },
+    {
+      "data": {
+        "nama": "Pasar Cicanengka",
+        "nama_singkatan": "PC",
+        "pengelola": "1",
+        "kelas": "",
+        "wilayah_bagian": "8",
+        "provinsi": "2325",
+        "kabupaten": "2911",
+        "kecamatan": "0",
+        "kelurahan": "2911",
+        "alamat": "Jl. Cihideung Raya No. 13",
+        "lantai": [
+          {
+            "nama_lantai": "Parkir",
+            "kode_lantai": "P1",
+            "edit": "false"
+          }
+        ]
+      },
+      "headers": {
+        "Content-Type": "application/x-www-form-urlencoded"
+      },
+      "jumlah_toko": "115",
+      "jumlah_kios": "35",
+      "jumlah_lapak": "101",
+      "jumlah_meja": "39",
+      "jumlah_los": "114",
+      "jumlah_pemilik": "97",
+      "kode_pasar": "02PKL01B01K1B1004",
+      "id": "6"
+    }
+  ],
+  "wilayah": [
+    {
+      "id_pasar": 2,
+      "id": 1,
+      "nama_bagian": "Utara"
+    },
+    {
+      "id_pasar": 2,
+      "id": 2,
+      "nama_bagian": "Selatan"
+    }
+  ],
+  "unit": [
+    {
+      "tipe_tempat_usaha": "6",
+      "jenis_dagang": "1",
+      "blok": "D1",
+      "no_ruang_dagang": "021",
+      "id_lantai": "2",
+      "id_pasar": "2",
+      "tipe_dagang": "Meja",
+      "kode_tipe_dagang": "M",
+      "jenis_usaha": "Jual Daging",
+      "id": 1
+    },
+    {
+      "tipe_tempat_usaha": "4",
+      "jenis_dagang": "1",
+      "blok": "F3",
+      "no_ruang_dagang": "213",
+      "id_lantai": "4",
+      "id_pasar": "3",
+      "tipe_dagang": "Lapak",
+      "kode_tipe_dagang": "L2",
+      "jenis_usaha": "Jual Daging",
+      "id": 23
+    },
+    {
+      "tipe_tempat_usaha": "6",
+      "jenis_dagang": "1",
+      "blok": "F2",
+      "no_ruang_dagang": "021",
+      "id_lantai": "5",
+      "id_pasar": "4",
+      "tipe_dagang": "Meja",
+      "kode_tipe_dagang": "M",
+      "jenis_usaha": "Jual Daging",
+      "id": 31
+    },
+    {
+      "tipe_tempat_usaha": "3",
+      "jenis_dagang": "1",
+      "blok": "D2",
+      "no_ruang_dagang": "001",
+      "id_lantai": "6",
+      "id_pasar": "4",
+      "tipe_dagang": "Los",
+      "kode_tipe_dagang": "L1",
+      "jenis_usaha": "Jual Daging",
+      "id": 32
+    },
+    {
+      "tipe_tempat_usaha": "2",
+      "jenis_dagang": "",
+      "blok": "C2",
+      "no_ruang_dagang": "032",
+      "id_lantai": "1",
+      "id_pasar": "1",
+      "tipe_dagang": "Kios",
+      "kode_tipe_dagang": "K1",
+      "id": 33
+    },
+    {
+      "tipe_tempat_usaha": "6",
+      "jenis_dagang": "",
+      "blok": "W1",
+      "no_ruang_dagang": "002",
+      "id_lantai": "3",
+      "id_pasar": "2",
+      "tipe_dagang": "Meja",
+      "kode_tipe_dagang": "M",
+      "id": 34
+    },
+    {
+      "tipe_tempat_usaha": "6",
+      "jenis_dagang": "0",
+      "blok": "D1",
+      "no_ruang_dagang": "021",
+      "id_lantai": "3",
+      "id_pasar": "2",
+      "tipe_dagang": "Meja",
+      "kode_tipe_dagang": "M",
+      "id": 35
+    }
+  ],
+  "tempat-usaha": [
+    {
+      "id": 2,
+      "nama": "Kios",
+      "kode_tempat_usaha": "K1"
+    },
+    {
+      "id": 4,
+      "nama": "Lapak",
+      "kode_tempat_usaha": "L2"
+    },
+    {
+      "id": 3,
+      "nama": "Los",
+      "kode_tempat_usaha": "L1"
+    },
+    {
+      "id": 6,
+      "nama": "Meja",
+      "kode_tempat_usaha": "M"
+    },
+    {
+      "id": 1,
+      "nama": "Toko",
+      "kode_tempat_usaha": "T1"
+    }
+  ],
+  "fasilitas": [
+    {
+      "status": 1,
+      "id": 46,
+      "name": "AC",
+      "kode_fasilitas": "F001"
+    },
+    {
+      "status": 1,
+      "id": 59,
+      "name": "Bongkar Muat",
+      "kode_fasilitas": "BkrM"
+    },
+    {
+      "status": 1,
+      "id": 12,
+      "name": "Fasilitas",
+      "kode_fasilitas": null
+    },
+    {
+      "status": 1,
+      "id": 16,
+      "name": "Fasilitas Test",
+      "kode_fasilitas": null
+    },
+    {
+      "status": 1,
+      "id": 57,
+      "name": "Kipas Angin",
+      "kode_fasilitas": "Kps-Angn"
+    },
+    {
+      "status": 1,
+      "id": 11,
+      "name": "Lahan",
+      "kode_fasilitas": null
+    },
+    {
+      "status": 1,
+      "id": 47,
+      "name": "Lift",
+      "kode_fasilitas": "F002"
+    },
+    {
+      "status": 1,
+      "id": 49,
+      "name": "Mushola",
+      "kode_fasilitas": "F003"
+    },
+    {
+      "status": 1,
+      "id": 53,
+      "name": "Parkir Mobil",
+      "kode_fasilitas": "P-MBL"
+    },
+    {
+      "status": 1,
+      "id": 52,
+      "name": "Parkir Motor",
+      "kode_fasilitas": "P-MTR"
+    },
+    {
+      "status": 1,
+      "id": 54,
+      "name": "Parkiran",
+      "kode_fasilitas": ""
+    },
+    {
+      "status": 1,
+      "id": 51,
+      "name": "Ruang Menyusui",
+      "kode_fasilitas": "F004"
+    },
+    {
+      "status": 1,
+      "id": 36,
+      "name": "Tangga Darurat",
+      "kode_fasilitas": null
+    },
+    {
+      "status": 1,
+      "id": 50,
+      "name": "Tangga Darurat",
+      "kode_fasilitas": "F003"
+    },
+    {
+      "status": 1,
+      "id": 34,
+      "name": "Tangga Darurat",
+      "kode_fasilitas": null
+    },
+    {
+      "status": 1,
+      "id": 35,
+      "name": "Tangga Darurat",
+      "kode_fasilitas": null
+    },
+    {
+      "status": 1,
+      "id": 37,
+      "name": "Tangga Darurat",
+      "kode_fasilitas": null
+    },
+    {
+      "status": 1,
+      "id": 55,
+      "name": "Tempat Usaha",
+      "kode_fasilitas": "TMP-USH"
+    },
+    {
+      "status": 1,
+      "id": 9,
+      "name": "test",
+      "kode_fasilitas": null
+    },
+    {
+      "status": 1,
+      "id": 10,
+      "name": "Test2",
+      "kode_fasilitas": null
+    },
+    {
+      "status": 1,
+      "id": 56,
+      "name": "WC",
+      "kode_fasilitas": "WC"
+    },
+    {
+      "nama_fasilitas": "",
+      "jenis_fasilitas": "",
+      "id_lantai": 1,
+      "id_pasar": 1,
+      "id": 60
+    },
+    {
+      "nama_fasilitas": "bbk",
+      "jenis_fasilitas": 16,
+      "id_lantai": 1,
+      "id_pasar": 1,
+      "id": 61
+    },
+    {
+      "nama_fasilitas": "bbk",
+      "jenis_fasilitas": 16,
+      "id_lantai": 1,
+      "id_pasar": 1,
+      "id": 62
+    }
+  ],
+  "jenis-usaha": [
+    {
+      "id": 9,
+      "nama": "Jual Bumbu Masakan"
+    },
+    {
+      "id": 1,
+      "nama": "Jual Daging"
+    },
+    {
+      "id": 2,
+      "nama": "Jual Pakaian"
+    },
+    {
+      "id": 4,
+      "nama": "Jual Perabotan Makanan"
+    }
+  ],
+  "kelengkapan": [
+    [
+      {
+        "id": 1,
+        "nama": "AC",
+        "kode_kelengkapan": "AC"
+      },
+      {
+        "id": 4,
+        "nama": "CCTV",
+        "kode_kelengkapan": "CCTV"
+      },
+      {
+        "id": 3,
+        "nama": "Eskalator",
+        "kode_kelengkapan": "EK"
+      },
+      {
+        "id": 9,
+        "nama": "kipas angin",
+        "kode_kelengkapan": "KA"
+      },
+      {
+        "id": 2,
+        "nama": "Lift",
+        "kode_kelengkapan": "LF"
+      },
+      {
+        "id": 8,
+        "nama": "Meja",
+        "kode_kelengkapan": "M"
+      }
+    ]
+  ],
+  "pengelola": [
+    {
+      "nama": "PD Pasar",
+      "id": 1
+    },
+    {
+      "nama": "Mitra",
+      "id": 2
+    }
+  ],
+  "kelas-pasar": [
+    {
+      "id": 1,
+      "nama_kelas": "Kelas I"
+    },
+    {
+      "id": 2,
+      "nama_kelas": "Kelas II"
+    },
+    {
+      "id": 3,
+      "nama_kelas": "Kelas III"
+    },
+    {
+      "id": 4,
+      "nama_kelas": "Kelas IV"
+    },
+    {
+      "id": 10,
+      "nama_kelas": "Kelas V"
+    }
+  ],
+  "provinsi": [
+    {
+      "id_wilayah": 1,
+      "nama_wilayah": "ACEH"
+    },
+    {
+      "id_wilayah": 334,
+      "nama_wilayah": "SUMATERA UTARA"
+    },
+    {
+      "id_wilayah": 885,
+      "nama_wilayah": "SUMATERA BARAT"
+    },
+    {
+      "id_wilayah": 1100,
+      "nama_wilayah": "RIAU"
+    },
+    {
+      "id_wilayah": 1281,
+      "nama_wilayah": "JAMBI"
+    },
+    {
+      "id_wilayah": 1436,
+      "nama_wilayah": "SUMATERA SELATAN"
+    },
+    {
+      "id_wilayah": 1712,
+      "nama_wilayah": "BENGKULU"
+    },
+    {
+      "id_wilayah": 1864,
+      "nama_wilayah": "LAMPUNG"
+    },
+    {
+      "id_wilayah": 2134,
+      "nama_wilayah": "KEP. BANGKA BELITUNG"
+    },
+    {
+      "id_wilayah": 2189,
+      "nama_wilayah": "KEPULAUAN RIAU"
+    },
+    {
+      "id_wilayah": 2274,
+      "nama_wilayah": "DKI JAKARTA"
+    },
+    {
+      "id_wilayah": 2325,
+      "nama_wilayah": "JAWA BARAT"
+    },
+    {
+      "id_wilayah": 2993,
+      "nama_wilayah": "JAWA TENGAH"
+    },
+    {
+      "id_wilayah": 3603,
+      "nama_wilayah": "DI YOGYAKARTA"
+    },
+    {
+      "id_wilayah": 3687,
+      "nama_wilayah": "JAWA TIMUR"
+    },
+    {
+      "id_wilayah": 4390,
+      "nama_wilayah": "BANTEN"
+    },
+    {
+      "id_wilayah": 4567,
+      "nama_wilayah": "BALI"
+    },
+    {
+      "id_wilayah": 4634,
+      "nama_wilayah": "NUSA TENGGARA BARAT"
+    },
+    {
+      "id_wilayah": 4771,
+      "nama_wilayah": "NUSA TENGGARA TIMUR"
+    },
+    {
+      "id_wilayah": 5131,
+      "nama_wilayah": "KALIMANTAN BARAT"
+    },
+    {
+      "id_wilayah": 5350,
+      "nama_wilayah": "KALIMANTAN TENGAH"
+    },
+    {
+      "id_wilayah": 5505,
+      "nama_wilayah": "KALIMANTAN SELATAN"
+    },
+    {
+      "id_wilayah": 5672,
+      "nama_wilayah": "KALIMANTAN TIMUR"
+    },
+    {
+      "id_wilayah": 5841,
+      "nama_wilayah": "SULAWESI UTARA"
+    },
+    {
+      "id_wilayah": 6060,
+      "nama_wilayah": "SULAWESI TENGAH"
+    },
+    {
+      "id_wilayah": 6266,
+      "nama_wilayah": "SULAWESI SELATAN"
+    },
+    {
+      "id_wilayah": 6623,
+      "nama_wilayah": "SULAWESI TENGGARA"
+    },
+    {
+      "id_wilayah": 6869,
+      "nama_wilayah": "GORONTALO"
+    },
+    {
+      "id_wilayah": 6958,
+      "nama_wilayah": "SULAWESI BARAT"
+    },
+    {
+      "id_wilayah": 7033,
+      "nama_wilayah": "MALUKU"
+    },
+    {
+      "id_wilayah": 7192,
+      "nama_wilayah": "MALUKU UTARA"
+    },
+    {
+      "id_wilayah": 7320,
+      "nama_wilayah": "P A P U A"
+    },
+    {
+      "id_wilayah": 7887,
+      "nama_wilayah": "PAPUA BARAT"
+    },
+    {
+      "id_wilayah": 8129,
+      "nama_wilayah": "KALIMANTAN UTARA"
+    }
+  ],
+  "child": [
+    {
+      "id_wilayah": 2448,
+      "nama_wilayah": "KABUPATEN BANDUNG"
+    },
+    {
+      "id_wilayah": 2879,
+      "nama_wilayah": "KABUPATEN BANDUNG BARAT"
+    },
+    {
+      "id_wilayah": 2855,
+      "nama_wilayah": "KABUPATEN BEKASI"
+    },
+    {
+      "id_wilayah": 2326,
+      "nama_wilayah": "KABUPATEN BOGOR"
+    },
+    {
+      "id_wilayah": 2578,
+      "nama_wilayah": "KABUPATEN CIAMIS"
+    },
+    {
+      "id_wilayah": 2415,
+      "nama_wilayah": "KABUPATEN CIANJUR"
+    },
+    {
+      "id_wilayah": 2648,
+      "nama_wilayah": "KABUPATEN CIREBON"
+    },
+    {
+      "id_wilayah": 2495,
+      "nama_wilayah": "KABUPATEN GARUT"
+    },
+    {
+      "id_wilayah": 2743,
+      "nama_wilayah": "KABUPATEN INDRAMAYU"
+    },
+    {
+      "id_wilayah": 2824,
+      "nama_wilayah": "KABUPATEN KARAWANG"
+    },
+    {
+      "id_wilayah": 2615,
+      "nama_wilayah": "KABUPATEN KUNINGAN"
+    },
+    {
+      "id_wilayah": 2689,
+      "nama_wilayah": "KABUPATEN MAJALENGKA"
+    },
+    {
+      "id_wilayah": 8118,
+      "nama_wilayah": "KABUPATEN PANGANDARAN"
+    },
+    {
+      "id_wilayah": 2806,
+      "nama_wilayah": "KABUPATEN PURWAKARTA"
+    },
+    {
+      "id_wilayah": 2775,
+      "nama_wilayah": "KABUPATEN SUBANG"
+    },
+    {
+      "id_wilayah": 2367,
+      "nama_wilayah": "KABUPATEN SUKABUMI"
+    },
+    {
+      "id_wilayah": 2716,
+      "nama_wilayah": "KABUPATEN SUMEDANG"
+    },
+    {
+      "id_wilayah": 2538,
+      "nama_wilayah": "KABUPATEN TASIKMALAYA"
+    },
+    {
+      "id_wilayah": 2911,
+      "nama_wilayah": "KOTA BANDUNG"
+    },
+    {
+      "id_wilayah": 2988,
+      "nama_wilayah": "KOTA BANJAR"
+    },
+    {
+      "id_wilayah": 2948,
+      "nama_wilayah": "KOTA BEKASI"
+    },
+    {
+      "id_wilayah": 2896,
+      "nama_wilayah": "KOTA BOGOR"
+    },
+    {
+      "id_wilayah": 2973,
+      "nama_wilayah": "KOTA CIMAHI"
+    },
+    {
+      "id_wilayah": 2942,
+      "nama_wilayah": "KOTA CIREBON"
+    },
+    {
+      "id_wilayah": 2961,
+      "nama_wilayah": "KOTA DEPOK"
+    },
+    {
+      "id_wilayah": 2903,
+      "nama_wilayah": "KOTA SUKABUMI"
+    },
+    {
+      "id_wilayah": 2977,
+      "nama_wilayah": "KOTA TASIKMALAYA"
+    }
+  ],
+  "wilayah-bagian": [
+    {
+      "id_kota": "2911",
+      "id": 8,
+      "nama_wilayah": "Wilayah Barat"
+    },
+    {
+      "id_kota": "2911",
+      "id": 9,
+      "nama_wilayah": "Wilayah Timur"
+    },
+    {
+      "id_kota": "2911",
+      "id": 10,
+      "nama_wilayah": "Wilayah Selatan"
+    },
+    {
+      "id_kota": "2911",
+      "id": 11,
+      "nama_wilayah": "Wilayah Utara"
+    }
+  ],
+  "options-filter-berdasarkan": [
+    {
+      "name": "Kode Pasar",
+      "id": "kode_pasar"
+    },
+    {
+      "name": "Nama Pasar",
+      "id": "nama_pasar"
+    },
+    {
+      "name": "Pengelola",
+      "id": "pengelola"
+    }
+  ]
+}

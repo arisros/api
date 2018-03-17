@@ -1,0 +1,14 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module",
+  },
+  "rules": {
+    "semi": ["error", "never"],
+    "quotes": ["error", "single"],
+    "indent": ["error", 2],
+    "comma-dangle": ["error", "never"],
+    "no-cond-assign": ["error", "always"],
+    "no-console": "off",
+  }
+}
