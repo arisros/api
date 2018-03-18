@@ -5,5 +5,5 @@ DirectoryIndex
 <IfModule mod_rewrite.c>
 RewriteEngine on
 # Simple URL redirect:
-RewriteRule ^(.*)$ http://127.0.0.1:3080/$1 [P]
+RewriteRule ^(.*)$ http://127.0.0.1:62542/$1 [P]
 </IfModule>
