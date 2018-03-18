@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   "start": "nodemon index.js --exec babel-node --presets es2015,stage-2",
-   "build": "babel lib -d dist --presets es2015,stage-2",
-   "serve": "node dist/index.js"
+    "start": "nodemon index.js --exec babel-node --presets es2015,stage-2",
+    "build": "babel lib -d dist --presets es2015,stage-2",
+    "serve": "node dist/index.js"
   },
   "author": "",
   "license": "ISC",
@@ -25,6 +25,7 @@
   "dependencies": {
     "axios": "^0.16.2",
     "body-parser": "^1.18.2",
+    "forever": "^0.15.3",
     "json-server": "^0.12.0",
     "request": "^2.83.0"
   }
